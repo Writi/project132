@@ -1,0 +1,58 @@
+#heading
+{
+font-size: 23px;
+width: 100%;
+margin: 0px;
+font-weight: 550;
+}
+
+body
+{
+    background-size: cover;
+    background-position: center;
+}
+
+a{
+    font-size: 23px;
+    font-weight: 500;
+    padding: 10px;
+    border-radius: 15px;
+    width: 400px;
+    height: 150px;
+    text-align: center;
+    margin: auto;
+    color: rgb(240, 238, 238);
+    box-shadow: 10px 10px 10px rgb(203, 190, 190);
+    background: linear-gradient(
+        #155bcb
+        #0b2d63
+    );
+    font-family: sans-serif;
+}
+
+#label
+{
+    background-color: #0b2d63;
+    text-decoration-color: azure;
+    padding: 5px;
+    font-size: 17px;
+}
+
+#status
+{
+    background-color: #0b2d63;
+    text-decoration-color: azure;
+    padding: 5px;
+    font-size: 17px;
+    margin: auto;
+}
+
+canvas{
+    box-shadow: 10px 10px 10px grey;
+    border-radius: 10px;
+    background-color: azure;
+    padding: 10px;
+    border-color: black;
+
+}
+
